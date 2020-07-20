@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="wear_rule_default_stroke_color">@android:color/darker_gray</color>
+    <color name="test_color">#FFFFFF</color>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="wear_rule">
+        <attr name="stroke_width" format="reference|dimension"></attr>
+        <attr name="spacing_angle" format="float|reference"></attr>
+        <attr name="start_angle" format="float|reference"></attr>
+        <attr name="sweep_angle" format="float|reference"></attr>
+        <attr name="stroke_color" format="reference|color"></attr>
+        <attr name="text_size" format="reference|dimension"></attr>
+    </declare-styleable>
+</resources>
